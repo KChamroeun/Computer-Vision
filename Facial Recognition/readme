@@ -1,3 +1,6 @@
+@Copy Right: 
+The Facial Recognition was developed by Chamroeun KHIM, and Visal Rithy. The application used Principle Componnent Analysis
+E-mail: chamroeun.khim@gmail.com, Vice Dean of Faculity of Engineering
 After cloning the project from github reporsitory sucessfully there are some tips that you need to 
 do for using this application:
 - Firstly:  We need to run " pip install -r requirements.txt " (It's tell the computer to install the require library used in 
